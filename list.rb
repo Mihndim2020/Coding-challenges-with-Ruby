@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # This is initialize a node
 class Node
   attr_accessor :value, :next_node
